@@ -18,3 +18,9 @@ This sensor is made of two or more electrodes that are placed against the skin t
 Most trackers don’t have a temperature sensor, but that’s a feature of some models. The sensor may be built-in or come in the form of a patch connected to the tracker.
 
 ![Fitness Wearables](https://user-images.githubusercontent.com/98825618/154892365-b4db8c8f-ff93-42a2-ab69-4554be09703b.png)
+
+## Requirements
+* Fitness trackers must fit well—not too small, not too big, and be comfortable when wearing for a long period of time.
+* Accuracy: Whatever data your activity tracker tracks, it should be accurate and clear to understand.
+* Battery Life: For those who wear activity trackers all day or who use fitness trackers during long workouts, a long battery life is key.
+* Syncing and connectivity : It should be able to sync with the other 3rd party apps and maintain a connection with the main device.
