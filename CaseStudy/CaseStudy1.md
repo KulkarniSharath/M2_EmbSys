@@ -16,3 +16,5 @@ This sensor is made of two or more electrodes that are placed against the skin t
  Bioimpedance (BioZ) is another factor that can be measured. It’s essentially the resistance between two points on the skin. Two electrodes apply a voltage to the skin and two other electrodes measure the current and calculate the resistance. This measurement can determine how much you sweat, your level of hydration, and respiration rate.
 ###	Temperature: 
 Most trackers don’t have a temperature sensor, but that’s a feature of some models. The sensor may be built-in or come in the form of a patch connected to the tracker.
+
+![Fitness Wearables](https://user-images.githubusercontent.com/98825618/154892365-b4db8c8f-ff93-42a2-ab69-4554be09703b.png)
