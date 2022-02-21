@@ -10,3 +10,4 @@ Motor,
 Finger print sensor,
 GSM module(sim900),
 
+![block daigram](https://user-images.githubusercontent.com/98825618/154892814-2eca40f3-1021-4c8a-82c1-5fcb5173e27c.PNG)
