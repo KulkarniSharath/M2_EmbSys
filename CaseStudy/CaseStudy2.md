@@ -11,3 +11,10 @@ Finger print sensor,
 GSM module(sim900),
 
 ![block daigram](https://user-images.githubusercontent.com/98825618/154892814-2eca40f3-1021-4c8a-82c1-5fcb5173e27c.PNG)
+
+## Requirements (High & Low)
+* Detection of biometrics is the highest priority for a safer and secure working of this idea.
+* The process of sending otp to the registerd user is necessary.
+* Incase of wrong multiple attempts blocking process should happen.
+* Data should be stored and maintained for proper working of this prototype.
+* Theft attacks must be detected. 
