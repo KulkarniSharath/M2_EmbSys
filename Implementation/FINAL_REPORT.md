@@ -4,14 +4,14 @@
 
 # Table of Contents
 
-1) Introduction
-2) Requirements
+Chapter 1) Introduction
+Chapter 2) Requirements
     *	Low level requirements
     *	High level requirements 
-3) Block Diagrams & Design
-4) Test Plans and output
-5) Implementation
-6) Applications and FutureScope
+Chapter 3) Block Diagrams & Design
+Chapter 4) Test Plans and output
+Chapter 5) Implementation
+Chapter 6) Applications and FutureScope
 
 # Chapter 1 : Introduction
 As thefts are increasing day by day security is becoming a major concern nowadays. So a digital code lock can secure your home or locker easily. It will open your door only when the right password is entered. The need of safety can be achieved by making locks which can be electrical or mechanical with one or a few keys, but for locking a big area many locks are required. Nowadays every device’s operation is based on digital technology.  
@@ -48,7 +48,7 @@ How : The very basic implementation can be done by using a motor, keypads, displ
            HLR2. It shall rotate the motor (servo) on correct input
            HLR3. It shall on the buzzer in case of wrong input 
      
-      2.2 Low level requirements (LLR)
+       2.2 Low level requirements (LLR)
            LLR1. The system shall display the things in the lcd display
            LLR2. It shall contain the option to change the password
            LLR3. It shall a have push button there to reset
