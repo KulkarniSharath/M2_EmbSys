@@ -59,7 +59,8 @@ The block diagrams shall have been included with the fingerprint sensor or any R
 
 More components like biometrics input, sim900 module, GSM etc. could be used to make the system more advanced.
 
-**Image**
+![Block diagram doorlock](https://user-images.githubusercontent.com/98825618/157058343-f31e3307-2a7c-456b-9ae2-c663fb63cb8c.PNG)
+
 
 The **components** used here are as follows:
 
@@ -71,8 +72,13 @@ The **components** used here are as follows:
 
 **FlowchartImage**
 
+![Flowchart](https://user-images.githubusercontent.com/98825618/157058863-23beeade-0e42-4a6d-bebb-2f61bc88cb61.PNG)
+
 **UMLImage**
 NOTE: *All functions mentioned here may not be implemented due to non-availability of components in the software.*
+
+![Capture11111](https://user-images.githubusercontent.com/98825618/157058961-27db2238-268c-46b2-9ba7-ee92ae029ec3.PNG)
+
 
 # Chapter 4 : Test Cases Plan & Output 
 
@@ -101,7 +107,23 @@ In the future to improve this very prototype or project we can add more features
 
 **HARDWARE IMPLEMENTATION IMAGES**
 
+![Hardware implementation 0](https://user-images.githubusercontent.com/98825618/157059339-3e4fc1f2-a045-4c81-aad7-ab605b0ef2cf.PNG)
+
+
+![Hardware implementation 1](https://user-images.githubusercontent.com/98825618/157059295-2e8f8200-98dd-46ce-9f04-eb135362cf50.PNG)
+
+
+![Hardware Implementation 2](https://user-images.githubusercontent.com/98825618/157059242-6bfc8c88-5384-428d-b220-cfd27f58938e.PNG)
+
+
+![Hardware Implementation 3](https://user-images.githubusercontent.com/98825618/157059144-7a4d92b0-c1cb-4a07-b859-95d2121c4436.PNG)
+
 **SOFTWARE IMPLEMENTATION IMAGES**
+
+![Software Implementation 0](https://user-images.githubusercontent.com/98825618/157060701-deb613ed-dbdd-415c-941f-a5c2944db9bd.PNG)
+
+![Software Implementation 1](https://user-images.githubusercontent.com/98825618/157060741-eb3be3fa-b4b6-4cc1-ad8b-3b3dc0df55ff.png)
+
 
 The following implementation can be improved by adding more equipment like RFID tags for input rather than the keypad, or any voice recognition module for a different approach to this current model.
 
