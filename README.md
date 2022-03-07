@@ -9,3 +9,5 @@ Case study is based on the any two typical embedded systems that are already in 
 
 Implementation of the project is based on the embedded system of a password based door lock system.
 Use of sensors and actuators are present and some assumptions are made if necessary while implementing this current model.
+
+[![Codacy Security Scan](https://github.com/KulkarniSharath/M2_EmbSys/actions/workflows/codacy.yml/badge.svg)](https://github.com/KulkarniSharath/M2_EmbSys/actions/workflows/codacy.yml)
