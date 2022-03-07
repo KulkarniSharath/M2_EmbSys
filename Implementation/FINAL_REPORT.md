@@ -23,7 +23,9 @@ The main objective of this project is to give safety at every common places like
 Idea behind this project is of a door-latch opening using a password entered through keypad. As well as turning on the Buzzer when passcode is entered wrong for multiple times. User can modify this password anytime he/she wishes using a keypad. The main component in the circuit is Arduino UNO which is basically used to send a text message to owner of the house about the breach of security. The 4*4 keypad is used to enter the password. The entered password is compared with the known password. If it is correct password, the system opens the door by servo motor and displays the status of door on LCD. If the password is wrong then door remains closed and displays “WRONG PASSWORD” on LCD.
 
 **SWOT ANALYSIS**
-Put that image over here
+
+![SWOT analysis](https://user-images.githubusercontent.com/98825618/157057418-5fb131d7-a3a3-4a9d-9da9-8fc1c465647d.PNG)
+
 
 **4W1H**
 
