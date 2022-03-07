@@ -75,6 +75,7 @@ The **components** used here are as follows:
 ![Flowchart](https://user-images.githubusercontent.com/98825618/157058863-23beeade-0e42-4a6d-bebb-2f61bc88cb61.PNG)
 
 **UMLImage**
+
 NOTE: *All functions mentioned here may not be implemented due to non-availability of components in the software.*
 
 ![Capture11111](https://user-images.githubusercontent.com/98825618/157058961-27db2238-268c-46b2-9ba7-ee92ae029ec3.PNG)
@@ -124,6 +125,7 @@ In the future to improve this very prototype or project we can add more features
 
 ![Software Implementation 1](https://user-images.githubusercontent.com/98825618/157060741-eb3be3fa-b4b6-4cc1-ad8b-3b3dc0df55ff.png)
 
+When the code is incorrect we get a clear audio out.
 
 The following implementation can be improved by adding more equipment like RFID tags for input rather than the keypad, or any voice recognition module for a different approach to this current model.
 
